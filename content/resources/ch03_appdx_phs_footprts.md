@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-450-holographic-imaging-spring-2003/c19a969bd620dac4df2fb086ffa4686e_ch03_appdx_phs_footprts.pdf
+file: /media/courses/mas-450-holographic-imaging-spring-2003/c19a969bd620dac4df2fb086ffa4686e_ch03_appdx_phs_footprts.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Calendar
+parent_type: CourseSection
 resourcetype: Document
 title: ch03_appdx_phs_footprts.pdf
 uid: c19a969b-d620-dac4-df2f-b086ffa4686e

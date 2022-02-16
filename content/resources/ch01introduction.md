@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Chapter?1:?The?Window?View?Upon?Reality
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-450-holographic-imaging-spring-2003/f337d78614502785d33626b13c588ed7_ch01introduction.pdf
+file: /media/courses/mas-450-holographic-imaging-spring-2003/f337d78614502785d33626b13c588ed7_ch01introduction.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Calendar
+parent_type: CourseSection
 resourcetype: Document
 title: ch01introduction.pdf
 uid: f337d786-1450-2785-d336-26b13c588ed7

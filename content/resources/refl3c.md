@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Reflection ray tracing
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-450-holographic-imaging-spring-2003/288ee061b58a27dda9673f31d598cd3b_refl3c.pdf
+file: /media/courses/mas-450-holographic-imaging-spring-2003/288ee061b58a27dda9673f31d598cd3b_refl3c.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Calendar
+parent_type: CourseSection
 resourcetype: Document
 title: refl3c.pdf
 uid: 288ee061-b58a-27dd-a967-3f31d598cd3b

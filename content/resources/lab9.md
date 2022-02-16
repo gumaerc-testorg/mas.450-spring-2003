@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Lab notes #9: SINGLE-BEAM ?DENISYUK? REFLECTION HOLOGRAMS'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-450-holographic-imaging-spring-2003/246038edc6abccd6d1b348dae7d53610_lab9.pdf
+file: /media/courses/mas-450-holographic-imaging-spring-2003/246038edc6abccd6d1b348dae7d53610_lab9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab9.pdf
 uid: 246038ed-c6ab-ccd6-d1b3-48dae7d53610

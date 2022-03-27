@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a8775045-3be2-eb54-9646-44b68096edef
 resourcetype: Document
 title: randtheta.pdf
 uid: 713c0668-dafe-485b-9818-4b8e46ac2ee1

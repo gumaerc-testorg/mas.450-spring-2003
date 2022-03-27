@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a8775045-3be2-eb54-9646-44b68096edef
 resourcetype: Document
 title: reflnotes.pdf
 uid: 8ba9ec1d-dc12-055c-de64-45bfaf46793e

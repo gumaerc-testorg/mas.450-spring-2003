@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a8775045-3be2-eb54-9646-44b68096edef
 resourcetype: Document
 title: understandingastigmatism.pdf
 uid: a839932f-0316-397f-5afc-48a1f0cd767a

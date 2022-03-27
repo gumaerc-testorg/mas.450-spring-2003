@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: ef5de82e-994f-ffea-6aef-bcdf048249fd
 resourcetype: Document
 title: holochemschematic.pdf
 uid: 35d06415-5241-bcf0-4652-4ed1ace1780d

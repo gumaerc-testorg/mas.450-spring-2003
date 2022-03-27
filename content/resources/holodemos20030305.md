@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 048705dd-34fc-c893-8a35-7b8af4ec4b2f
 resourcetype: Other
 title: holodemos20030305.zip
 uid: d1e53c38-4055-08fb-fca1-68d3fddfc0f7

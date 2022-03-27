@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a8775045-3be2-eb54-9646-44b68096edef
 resourcetype: Document
 title: sources.pdf
 uid: 62f0f235-40c4-eead-5ade-855e5c918851

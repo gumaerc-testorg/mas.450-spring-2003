@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a8775045-3be2-eb54-9646-44b68096edef
 resourcetype: Document
 title: astigmatismmodel.pdf
 uid: 5e497455-0395-2a08-9503-c6af25e8dbd7

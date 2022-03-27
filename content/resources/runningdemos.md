@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 048705dd-34fc-c893-8a35-7b8af4ec4b2f
 resourcetype: Document
 title: runningdemos.pdf
 uid: 87ebddfe-305e-d7b6-49ac-f0cb19a9974e

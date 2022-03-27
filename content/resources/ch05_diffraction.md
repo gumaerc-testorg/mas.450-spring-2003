@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: ef5de82e-994f-ffea-6aef-bcdf048249fd
 resourcetype: Document
 title: ch05_diffraction.pdf
 uid: 4c969aa4-8967-1f9b-b382-0c1a9c0a1335

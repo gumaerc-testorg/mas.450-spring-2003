@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: ef5de82e-994f-ffea-6aef-bcdf048249fd
 resourcetype: Document
 title: ch11nonlaserLllum.pdf
 uid: a0bf281e-369a-80da-7415-fc73e2ca95e8

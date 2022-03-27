@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: ef5de82e-994f-ffea-6aef-bcdf048249fd
 resourcetype: Document
 title: description.pdf
 uid: d788a1cb-4560-3470-2b3b-52a98cb98fcb

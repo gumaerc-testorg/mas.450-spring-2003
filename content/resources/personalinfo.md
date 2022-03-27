@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: ef5de82e-994f-ffea-6aef-bcdf048249fd
 resourcetype: Document
 title: personalinfo.pdf
 uid: 51fa8ac3-faad-7e65-e72f-032c615f826e

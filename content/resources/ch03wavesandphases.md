@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: ef5de82e-994f-ffea-6aef-bcdf048249fd
 resourcetype: Document
 title: ch03wavesandphases.pdf
 uid: e97cc57c-d5cb-a5b5-2ce4-a7524afb12f4

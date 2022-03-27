@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 048705dd-34fc-c893-8a35-7b8af4ec4b2f
 resourcetype: Document
 title: sourcedemo.pdf
 uid: d1d6d78f-a640-3f8e-2dd6-e77960add0bf

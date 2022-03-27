@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 048705dd-34fc-c893-8a35-7b8af4ec4b2f
 resourcetype: Document
 title: fringedemo.pdf
 uid: dd8c407d-f780-1569-9154-803d071984ff

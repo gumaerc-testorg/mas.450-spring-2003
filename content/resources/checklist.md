@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a182e1d4-1ecf-b30e-7003-27ebeeab32b0
 resourcetype: Document
 title: checklist.pdf
 uid: dffd29ac-c730-8b14-fadb-cc3fd1fa4780

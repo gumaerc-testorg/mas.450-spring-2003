@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -43,8 +44,8 @@ Lab Preview
 {{< tdopen >}}
 
 
-Course Description ([PDF]({{< baseurl >}}/resources/description))  
-[Lab #0 handout]({{< baseurl >}}/pages/labs)
+Course Description ({{% resource_link d788a1cb-4560-3470-2b3b-52a98cb98fcb "PDF" %}})  
+{{% resource_link 5460ec1b-7397-abb2-7fe8-e672ee6e3301 "Lab #0 handout" %}}
 
 
 {{< tdclose >}}
@@ -98,11 +99,11 @@ Phase Representation of Light
 {{< tdopen >}}
 
 
-Power and Units ([PDF]({{< baseurl >}}/resources/powerandunits))  
+Power and Units ({{% resource_link f1009d5e-962d-db1d-e7ee-a088b52bdc53 "PDF" %}})  
 Chap. 3 (Waves and Phases)  
 Chap. 3 appdx (Phase Footprints)  
-Collaboration and "Bibles" ([PDF]({{< baseurl >}}/resources/collab))  
-Problem Set #1 ([PDF]({{< baseurl >}}/resources/ps01))
+Collaboration and "Bibles" ({{% resource_link 78a2f986-1bb6-5464-8b63-aa1104b0f5b2 "PDF" %}})  
+Problem Set #1 ({{% resource_link aed9ef3f-fadc-489c-413f-4dd765d12f88 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -129,10 +130,10 @@ Basic Holographic Photochemistry
 {{< tdopen >}}
 
 
-Calculating Spatial Frequency ([PDF]({{< baseurl >}}/resources/sf))  
-A Catalog of Sources ([PDF]({{< baseurl >}}/resources/sources))  
-Lab #2 Notes ([PDF]({{< baseurl >}}/resources/lab2))  
-Basic Holographic Photochemistry ([PDF]({{< baseurl >}}/resources/holochembasics))  
+Calculating Spatial Frequency ({{% resource_link ca6849fa-d5e6-220a-5e62-f925d02dc1f1 "PDF" %}})  
+A Catalog of Sources ({{% resource_link 62f0f235-40c4-eead-5ade-855e5c918851 "PDF" %}})  
+Lab #2 Notes ({{% resource_link d6a5c07f-f845-f595-a044-b3116e1fbab7 "PDF" %}})  
+Basic Holographic Photochemistry ({{% resource_link a520c10b-9583-84f0-217e-688929e5ffa2 "PDF" %}})  
 Chap. 5 (Diffraction)
 
 
@@ -160,7 +161,7 @@ Lens Review
 {{< tdopen >}}
 
 
-Problem Set #2 ([PDF]({{< baseurl >}}/resources/ps02))  
+Problem Set #2 ({{% resource_link 0501c082-5182-c30c-05df-cd1c924355d1 "PDF" %}})  
 Chap. 6 (Diffraction Efficiency)  
 Chap. 6 appdx (Grating Efficiency)  
 Chap. 7 (Platonic Holography)
@@ -199,9 +200,9 @@ Magnification
 
 Chap. 8 (Ray-tracing Analysis)  
 Chap. 9 (HOEs and Inline Holograms)  
-Lab #3 Notes ([PDF]({{< baseurl >}}/resources/lab3))  
-Lab #4 Notes ([PDF]({{< baseurl >}}/resources/lab4))  
-Lab #3/4 Prelab Questions (Due in Lab) ([PDF]({{< baseurl >}}/resources/lab3prelab))  
+Lab #3 Notes ({{% resource_link edf9af5e-0e18-2dca-ed36-2556a7e7ed33 "PDF" %}})  
+Lab #4 Notes ({{% resource_link 75cf8710-71d9-b1d8-c7ea-972daa2dfbdc "PDF" %}})  
+Lab #3/4 Prelab Questions (Due in Lab) ({{% resource_link 3eb84dde-373e-be65-323a-c0a20501859e "PDF" %}})  
 Hologram Cross Sections
 
 
@@ -229,7 +230,7 @@ Lab Preview
 
 
   
-Transmission Holography Equations ([PDF]({{< baseurl >}}/resources/thinholoeqns))  
+Transmission Holography Equations ({{% resource_link 97e24ffa-ebb1-3045-3557-e3371277ad74 "PDF" %}})  
 Chap. 10 (L&U Holograms)  
 Chap. 10 appdx (Horizontal and Vertical Focus)
 
@@ -256,10 +257,10 @@ Astigmatism
 {{< tdopen >}}
 
 
-Problem Set #3 ([PDF]({{< baseurl >}}/resources/ps03))  
-Astigmatism Model ([PDF]({{< baseurl >}}/resources/astigmatismmodel))  
-Measuring Angles and Radii of Curvature ([PDF]({{< baseurl >}}/resources/randtheta))  
-Lab #5 Notes ([PDF]({{< baseurl >}}/resources/lab5))
+Problem Set #3 ({{% resource_link 6c82a16e-7d49-716c-2c9a-0377f5da6fbe "PDF" %}})  
+Astigmatism Model ({{% resource_link 5e497455-0395-2a08-9503-c6af25e8dbd7 "PDF" %}})  
+Measuring Angles and Radii of Curvature ({{% resource_link 713c0668-dafe-485b-9818-4b8e46ac2ee1 "PDF" %}})  
+Lab #5 Notes ({{% resource_link 0bd0f983-ab5a-6ac5-e5fd-3f6b47cc8fc6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -290,7 +291,7 @@ Sources of Image Blur
 {{< tdopen >}}
 
 
-Understanding Astigmatism ([PDF]({{< baseurl >}}/resources/understandingastigmatism))  
+Understanding Astigmatism ({{% resource_link a839932f-0316-397f-5afc-48a1f0cd767a "PDF" %}})  
 Chap. 11 - Non-laser Illumination  
 Chap. 12 - Real-image Projection
 
@@ -319,9 +320,9 @@ Bleaching
 {{< tdopen >}}
 
 
-Lab #6 Notes ([PDF]({{< baseurl >}}/resources/lab6))  
-Lab #6 Prelab Questions ([PDF]({{< baseurl >}}/resources/lab6prelab))  
-Holochemistry Schematic ([PDF]({{< baseurl >}}/resources/holochemschematic))
+Lab #6 Notes ({{% resource_link 454dfca7-6fff-bf69-c742-3b0818536a30 "PDF" %}})  
+Lab #6 Prelab Questions ({{% resource_link 9dc3e1c3-7ac9-5f6c-5149-c1583cf45c3d "PDF" %}})  
+Holochemistry Schematic ({{% resource_link 35d06415-5241-bcf0-4652-4ed1ace1780d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -385,8 +386,8 @@ Full-aperture Transfers
 
 
 Chap. 13: Full-aperture Transfers  
-Lab #7 Notes ([PDF]({{< baseurl >}}/resources/lab7))  
-Holographic Photochemistry, A Summary ([PDF]({{< baseurl >}}/resources/holochemistry))
+Lab #7 Notes ({{% resource_link b6e54833-01bc-ab52-6f17-c992b78521ee "PDF" %}})  
+Holographic Photochemistry, A Summary ({{% resource_link e30908f4-0fc4-9f2e-e3f4-bfa1c1d0b5ed "PDF" %}})
 
 
 {{< tdclose >}}
@@ -426,7 +427,7 @@ Rainbow Holography
 {{< tdopen >}}
 
 
-Lab #8 Notes ([PDF]({{< baseurl >}}/resources/lab8))  
+Lab #8 Notes ({{% resource_link 67a44706-2853-5acb-f56f-d75efee884ee "PDF" %}})  
 Chapter 14: Rainbow Holography  
 Quiz #1 Solutions  
 Chap. 15: Practical Rainbow Holography
@@ -446,7 +447,7 @@ Chap. 15: Practical Rainbow Holography
 Practical Rainbow Holography
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set #4 ([PDF]({{< baseurl >}}/resources/ps04))
+Problem Set #4 ({{% resource_link ee96c455-06f3-8d8a-b868-73e94de32b81 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 PS #4 Issued
@@ -463,7 +464,7 @@ Intro to Denisyuk/Reflection Holography
 {{< tdopen >}}
 
 
-[Final project information]({{< baseurl >}}/pages/projects)  
+{{% resource_link a182e1d4-1ecf-b30e-7003-27ebeeab32b0 "Final project information" %}}  
 Chap. 16: Denisyuk Holos
 
 
@@ -484,9 +485,9 @@ Chap. 16: Denisyuk Holos
 
 
 PS #4 Due  
-Problem Set #5 Issued ([PDF]({{< baseurl >}}/resources/ps05))  
-Lab #9 Notes ([PDF]({{< baseurl >}}/resources/lab9))  
-Pyrochrome Processing ([PDF]({{< baseurl >}}/resources/pyrochrome))
+Problem Set #5 Issued ({{% resource_link 762e9363-96eb-d634-0eb7-71306cbc58e5 "PDF" %}})  
+Lab #9 Notes ({{% resource_link 246038ed-c6ab-ccd6-d1b3-48dae7d53610 "PDF" %}})  
+Pyrochrome Processing ({{% resource_link 92a785c8-7ab5-9685-d9c6-8863f8a6392e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -507,7 +508,7 @@ Off-axis Reflection Holograms
 {{< tdopen >}}
 
 
-Notes on Off-axis Reflection Holography (3 pages) ([PDF]({{< baseurl >}}/resources/refl3c))
+Notes on Off-axis Reflection Holography (3 pages) ({{% resource_link 288ee061-b58a-27dd-a967-3f31d598cd3b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -539,7 +540,7 @@ Final Project Proposal #2 Due
 Wrap up: Challenges and Opportunities of Holography
 {{< tdclose >}}
 {{< tdopen >}}
-Final Project Lab Checklist ([PDF]({{< baseurl >}}/resources/checklist))
+Final Project Lab Checklist ({{% resource_link dffd29ac-c730-8b14-fadb-cc3fd1fa4780 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

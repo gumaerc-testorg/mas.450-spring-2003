@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ uid: a182e1d4-1ecf-b30e-7003-27ebeeab32b0
 Project Ideas
 -------------
 
-Final Project Lab Checklist ([PDF]({{< baseurl >}}/resources/checklist))
+Final Project Lab Checklist ({{% resource_link dffd29ac-c730-8b14-fadb-cc3fd1fa4780 "PDF" %}})
 
 *   [Introduction: Realistic Constraints](#1)
 *   [Basic Focus](#2)

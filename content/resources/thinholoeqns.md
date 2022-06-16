@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Transmission?hologram?equations
-file: /media/courses/mas-450-holographic-imaging-spring-2003/97e24ffaebb130453557e3371277ad74_thinholoeqns.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/97e24ffaebb130453557e3371277ad74_thinholoeqns.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -13,3 +13,5 @@ resourcetype: Document
 title: thinholoeqns.pdf
 uid: 97e24ffa-ebb1-3045-3557-e3371277ad74
 ---
+Transmission?hologram?equations
+

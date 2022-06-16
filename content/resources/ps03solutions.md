@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Problem set #3 sol''ns'
-file: /media/courses/mas-450-holographic-imaging-spring-2003/9589c533d5f37ac5be00db31e3ea3111_ps03solutions.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/9589c533d5f37ac5be00db31e3ea3111_ps03solutions.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: ps03solutions.pdf
 uid: 9589c533-d5f3-7ac5-be00-db31e3ea3111
 ---
+Problem set #3 sol'ns
+

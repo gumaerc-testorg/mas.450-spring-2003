@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ PROBLEM SETS
 Wave Optics, Optical Phase
 {{< tdclose >}}
 {{< tdopen >}}
-PS #1 ([PDF]({{< baseurl >}}/resources/ps01))
+PS #1 ({{% resource_link aed9ef3f-fadc-489c-413f-4dd765d12f88 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ PS #1 ([PDF]({{< baseurl >}}/resources/ps01))
 Interference + Diffraction
 {{< tdclose >}}
 {{< tdopen >}}
-PS #2 ([PDF]({{< baseurl >}}/resources/ps02))
+PS #2 ({{% resource_link 0501c082-5182-c30c-05df-cd1c924355d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ PS #2 ([PDF]({{< baseurl >}}/resources/ps02))
 Off-axis Holograms
 {{< tdclose >}}
 {{< tdopen >}}
-PS #3 ([PDF]({{< baseurl >}}/resources/ps03))
+PS #3 ({{% resource_link 6c82a16e-7d49-716c-2c9a-0377f5da6fbe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ PS #3 ([PDF]({{< baseurl >}}/resources/ps03))
 Full-aperture Transfers and Rainbow Holography
 {{< tdclose >}}
 {{< tdopen >}}
-PS #4 ([PDF]({{< baseurl >}}/resources/ps04))
+PS #4 ({{% resource_link ee96c455-06f3-8d8a-b868-73e94de32b81 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ PS #4 ([PDF]({{< baseurl >}}/resources/ps04))
 Conformal Fringes and Denisyuk Holograms
 {{< tdclose >}}
 {{< tdopen >}}
-PS #5 ([PDF]({{< baseurl >}}/resources/ps05))
+PS #5 ({{% resource_link 762e9363-96eb-d634-0eb7-71306cbc58e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

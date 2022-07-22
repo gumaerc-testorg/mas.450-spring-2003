@@ -5,6 +5,7 @@ file: /courses/mas-450-holographic-imaging-spring-2003/78a2f9861bb654648b63aa110
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: collab.pdf
 uid: 78a2f986-1bb6-5464-8b63-aa1104b0f5b2
 ---
 Policy on collaboration and the use of "bibles"
-

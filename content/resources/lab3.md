@@ -5,6 +5,7 @@ file: /courses/mas-450-holographic-imaging-spring-2003/edf9af5e0e182dcaed362556a
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab3.pdf
 uid: edf9af5e-0e18-2dca-ed36-2556a7e7ed33
 ---
 Lab notes #3: IN-LINE HOLOGRAPHIC OPTICAL?ELEMENTS
-

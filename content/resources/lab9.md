@@ -5,6 +5,7 @@ file: /courses/mas-450-holographic-imaging-spring-2003/246038edc6abccd6d1b348dae
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab9.pdf
 uid: 246038ed-c6ab-ccd6-d1b3-48dae7d53610
 ---
 Lab notes #9: SINGLE-BEAM ?DENISYUK? REFLECTION HOLOGRAMS
-

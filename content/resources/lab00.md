@@ -5,6 +5,7 @@ file: /courses/mas-450-holographic-imaging-spring-2003/e0e74005136f09adbd2a3556f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab00.pdf
 uid: e0e74005-136f-09ad-bd2a-3556f47a2407
 ---
 Coffee cup hologram demonstration
-

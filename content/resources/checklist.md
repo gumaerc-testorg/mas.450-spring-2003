@@ -5,6 +5,7 @@ file: /courses/mas-450-holographic-imaging-spring-2003/dffd29acc7308b14fadbcc3fd
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: checklist.pdf
 uid: dffd29ac-c730-8b14-fadb-cc3fd1fa4780
 ---
 Holography?Lab?checklist?/?report?form
-

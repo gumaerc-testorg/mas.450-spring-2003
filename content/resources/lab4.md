@@ -5,6 +5,7 @@ file: /courses/mas-450-holographic-imaging-spring-2003/75cf871071d9b1d8c7ea972da
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab4.pdf
 uid: 75cf8710-71d9-b1d8-c7ea-972daa2dfbdc
 ---
 Lab notes #4: IN-LINE?TRANSMISSION HOLOGRAMS
-

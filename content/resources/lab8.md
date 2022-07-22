@@ -5,6 +5,7 @@ file: /courses/mas-450-holographic-imaging-spring-2003/67a4470628535acbf56fd75ef
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab8.pdf
 uid: 67a44706-2853-5acb-f56f-d75efee884ee
 ---
 Lab notes #8: RAINBOW TRANSFER
-

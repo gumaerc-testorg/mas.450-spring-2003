@@ -2,6 +2,7 @@
 content_type: resource
 description: Transmission?hologram?equations
 file: /courses/mas-450-holographic-imaging-spring-2003/97e24ffaebb130453557e3371277ad74_thinholoeqns.pdf
+file_size: 59963
 file_type: application/pdf
 learning_resource_types:
 - Readings

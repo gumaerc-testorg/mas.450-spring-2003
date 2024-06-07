@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-450-holographic-imaging-spring-2003/6a6bc63bb68ce1c7d7988d0d18ec1db2_mas-450s03-th.jpg
+file_size: 1807
 file_type: image/jpeg
 image_metadata:
   caption: Light from a laser-illuminated coffee cup interferes with a holographic

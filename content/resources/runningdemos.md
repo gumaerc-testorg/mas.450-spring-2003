@@ -2,6 +2,7 @@
 content_type: resource
 description: Running holodemos
 file: /courses/mas-450-holographic-imaging-spring-2003/87ebddfe305ed7b649acf0cb19a9974e_runningdemos.pdf
+file_size: 126198
 file_type: application/pdf
 learning_resource_types:
 - Tools

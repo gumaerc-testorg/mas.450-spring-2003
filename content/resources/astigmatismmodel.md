@@ -2,6 +2,7 @@
 content_type: resource
 description: 'astigmatism: a difference in horizontal and vertical focal distance'
 file: /courses/mas-450-holographic-imaging-spring-2003/5e49745503952a089503c6af25e8dbd7_astigmatismmodel.pdf
+file_size: 19397
 file_type: application/pdf
 learning_resource_types:
 - Readings

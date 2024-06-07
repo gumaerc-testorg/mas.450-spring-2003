@@ -2,6 +2,7 @@
 content_type: resource
 description: Chapter?11:?Non-Laser?Illumination?of?Holograms
 file: /courses/mas-450-holographic-imaging-spring-2003/a0bf281e369a80da7415fc73e2ca95e8_ch11nonlaserLllum.pdf
+file_size: 230631
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

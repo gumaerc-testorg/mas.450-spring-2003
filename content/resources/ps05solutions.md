@@ -2,6 +2,7 @@
 content_type: resource
 description: 'SOLUTIONS: Problem Set #5: Conformal Fringes & ?Denisyuk? Holograms'
 file: /courses/mas-450-holographic-imaging-spring-2003/e5250d2aa993d0725ad5f6a9ac5e45c7_ps05solutions.pdf
+file_size: 286458
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

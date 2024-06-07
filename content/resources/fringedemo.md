@@ -2,6 +2,7 @@
 content_type: resource
 description: fringedemo
 file: /courses/mas-450-holographic-imaging-spring-2003/dd8c407df78015699154803d071984ff_fringedemo.pdf
+file_size: 282577
 file_type: application/pdf
 learning_resource_types:
 - Tools

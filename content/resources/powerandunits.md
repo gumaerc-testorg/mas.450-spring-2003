@@ -2,6 +2,7 @@
 content_type: resource
 description: Notes on power and units
 file: /courses/mas-450-holographic-imaging-spring-2003/f1009d5e962ddb1de7eea088b52bdc53_powerandunits.pdf
+file_size: 58509
 file_type: application/pdf
 learning_resource_types:
 - Readings

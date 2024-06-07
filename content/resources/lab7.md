@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lab notes #7: FULL-APERTURE TRANSFER'
 file: /courses/mas-450-holographic-imaging-spring-2003/b6e5483301bcab526f17c992b78521ee_lab7.pdf
+file_size: 33472
 file_type: application/pdf
 learning_resource_types:
 - Labs

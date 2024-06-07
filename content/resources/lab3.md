@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lab notes #3: IN-LINE HOLOGRAPHIC OPTICAL?ELEMENTS'
 file: /courses/mas-450-holographic-imaging-spring-2003/edf9af5e0e182dcaed362556a7e7ed33_lab3.pdf
+file_size: 14376
 file_type: application/pdf
 learning_resource_types:
 - Labs

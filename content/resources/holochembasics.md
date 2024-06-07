@@ -2,6 +2,7 @@
 content_type: resource
 description: Basic Holographic Photochemistry
 file: /courses/mas-450-holographic-imaging-spring-2003/a520c10b958384f0217e688929e5ffa2_holochembasics.pdf
+file_size: 122079
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Problem set #3 sol''ns'
 file: /courses/mas-450-holographic-imaging-spring-2003/9589c533d5f37ac5be00db31e3ea3111_ps03solutions.pdf
+file_size: 509447
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

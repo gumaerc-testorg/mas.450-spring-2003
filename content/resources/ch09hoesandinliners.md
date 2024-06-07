@@ -2,6 +2,7 @@
 content_type: resource
 description: Chapter?9:?Holographic?Lenses?and?In-Line??Gabor??Holograms
 file: /courses/mas-450-holographic-imaging-spring-2003/84bc5520db80b547436e6f76bce36755_ch09hoesandinliners.pdf
+file_size: 621570
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

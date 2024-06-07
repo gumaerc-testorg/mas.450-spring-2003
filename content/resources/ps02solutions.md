@@ -2,6 +2,7 @@
 content_type: resource
 description: 'PS #2 Solutions'
 file: /courses/mas-450-holographic-imaging-spring-2003/aa87120fcb70ef7e2f0014405f494e9d_ps02solutions.pdf
+file_size: 555140
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

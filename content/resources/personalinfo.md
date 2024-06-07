@@ -2,6 +2,7 @@
 content_type: resource
 description: Schedule Information sheet
 file: /courses/mas-450-holographic-imaging-spring-2003/51fa8ac3faad7e65e72f032c615f826e_personalinfo.pdf
+file_size: 29300
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

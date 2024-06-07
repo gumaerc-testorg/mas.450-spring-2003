@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lab notes #8: RAINBOW TRANSFER'
 file: /courses/mas-450-holographic-imaging-spring-2003/67a4470628535acbf56fd75efee884ee_lab8.pdf
+file_size: 19357
 file_type: application/pdf
 learning_resource_types:
 - Labs

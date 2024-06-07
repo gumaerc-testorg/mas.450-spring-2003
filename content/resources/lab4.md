@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lab notes #4: IN-LINE?TRANSMISSION HOLOGRAMS'
 file: /courses/mas-450-holographic-imaging-spring-2003/75cf871071d9b1d8c7ea972daa2dfbdc_lab4.pdf
+file_size: 14359
 file_type: application/pdf
 learning_resource_types:
 - Labs

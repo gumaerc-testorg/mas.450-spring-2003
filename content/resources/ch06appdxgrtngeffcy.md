@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-450-holographic-imaging-spring-2003/fe5d4f2160816c95b13584341404cbe0_ch06appdxgrtngeffcy.pdf
+file_size: 39692
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

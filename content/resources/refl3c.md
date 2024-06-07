@@ -2,6 +2,7 @@
 content_type: resource
 description: Reflection ray tracing
 file: /courses/mas-450-holographic-imaging-spring-2003/288ee061b58a27dda9673f31d598cd3b_refl3c.pdf
+file_size: 627989
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

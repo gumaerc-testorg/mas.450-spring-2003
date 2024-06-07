@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Ch. 16: Inline "Denisyuk" Reflection Holograms'
 file: /courses/mas-450-holographic-imaging-spring-2003/9668ed9d2cbf0b127b5c1d1a770b2275_ch16inlinereflectionh.pdf
+file_size: 160435
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

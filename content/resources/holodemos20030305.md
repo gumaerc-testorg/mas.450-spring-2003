@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '[Archive of holographic demonstration programs]'
-file: /courses/mas-450-holographic-imaging-spring-2003/d1e53c38405508fbfca168d3fddfc0f7_holodemos20030305.zip
+file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/d1e53c38405508fbfca168d3fddfc0f7_holodemos20030305.zip
 file_size: 165468
 file_type: application/zip
 learning_resource_types:

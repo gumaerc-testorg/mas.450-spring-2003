@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lab notes #9: SINGLE-BEAM ?DENISYUK? REFLECTION HOLOGRAMS'
-file: /courses/mas-450-holographic-imaging-spring-2003/246038edc6abccd6d1b348dae7d53610_lab9.pdf
+file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/246038edc6abccd6d1b348dae7d53610_lab9.pdf
 file_size: 24601
 file_type: application/pdf
 learning_resource_types:

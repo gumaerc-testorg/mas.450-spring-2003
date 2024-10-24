@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Coffee cup hologram demonstration
-file: /courses/mas-450-holographic-imaging-spring-2003/e0e74005136f09adbd2a3556f47a2407_lab00.pdf
+file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/e0e74005136f09adbd2a3556f47a2407_lab00.pdf
 file_size: 145656
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Course Outline. Conduct of the course.
-file: /courses/mas-450-holographic-imaging-spring-2003/d788a1cb456034702b3b52a98cb98fcb_description.pdf
+file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/d788a1cb456034702b3b52a98cb98fcb_description.pdf
 file_size: 37937
 file_type: application/pdf
 learning_resource_types: []

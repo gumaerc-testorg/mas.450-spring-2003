@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lab #1: Michelson Interferometer and lab introduction'
-file: /courses/mas-450-holographic-imaging-spring-2003/594a8d20e3901546c09a093669e391cb_lab1.pdf
+file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/594a8d20e3901546c09a093669e391cb_lab1.pdf
 file_size: 93720
 file_type: application/pdf
 learning_resource_types:

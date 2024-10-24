@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Chapter 15: Practical Issues in Rainbow Holography'
-file: /courses/mas-450-holographic-imaging-spring-2003/ad95286aef22ebf8913654db1992250a_ch15pracrainholos.pdf
+file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/ad95286aef22ebf8913654db1992250a_ch15pracrainholos.pdf
 file_size: 400925
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: inlinedemo
-file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/5aed7b69d76b4b5a6ec1fc5d9bac6ef0_inlinedemo.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/5aed7b69d76b4b5a6ec1fc5d9bac6ef0_inlinedemo.pdf
 file_size: 55197
 file_type: application/pdf
 learning_resource_types:

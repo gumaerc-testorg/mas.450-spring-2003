@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Holography?Lab?checklist?/?report?form
-file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/dffd29acc7308b14fadbcc3fd1fa4780_checklist.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/dffd29acc7308b14fadbcc3fd1fa4780_checklist.pdf
 file_size: 30918
 file_type: application/pdf
 learning_resource_types:

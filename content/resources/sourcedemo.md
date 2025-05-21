@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: sourcedemo
-file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/d1d6d78fa6403f8e2dd6e77960add0bf_sourcedemo.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/d1d6d78fa6403f8e2dd6e77960add0bf_sourcedemo.pdf
 file_size: 132353
 file_type: application/pdf
 learning_resource_types:

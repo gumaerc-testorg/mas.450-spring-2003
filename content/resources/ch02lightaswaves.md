@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Chapter 2: Light as Waves'
-file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/d01ebc2e0dc1ce68bc208d39f688ddb0_ch02lightaswaves.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/d01ebc2e0dc1ce68bc208d39f688ddb0_ch02lightaswaves.pdf
 file_size: 471026
 file_type: application/pdf
 learning_resource_types: []

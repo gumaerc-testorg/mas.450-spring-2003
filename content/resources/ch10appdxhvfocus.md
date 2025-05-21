@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: HORIZONTAL?FOCUS:?OFF-AXIS?TRANSMISSION?HOLOGRAPHY
-file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/a22b360590d43b9dd38fe1b2037aacd4_ch10appdxhvfocus.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/a22b360590d43b9dd38fe1b2037aacd4_ch10appdxhvfocus.pdf
 file_size: 125693
 file_type: application/pdf
 learning_resource_types:

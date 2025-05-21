@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Chapter 14: White-Light Transmission ?Rainbow? Holograms'
-file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/d8da840f0c0acd685106df4617eebf91_ch14rainbowholograms.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/d8da840f0c0acd685106df4617eebf91_ch14rainbowholograms.pdf
 file_size: 578652
 file_type: application/pdf
 learning_resource_types: []

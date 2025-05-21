@@ -2,7 +2,7 @@
 content_type: resource
 description: 'SOLUTIONS: Prob. Set #4: Full-Aperture Transfers & White-Light Transmission
   Holograms'
-file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/e2554196b08c12614b184af191b99ce0_ps04solutions.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/e2554196b08c12614b184af191b99ce0_ps04solutions.pdf
 file_size: 470046
 file_type: application/pdf
 learning_resource_types: []

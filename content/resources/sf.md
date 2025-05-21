@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Calculating?spatial?frequency
-file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/ca6849fad5e6220a5e62f925d02dc1f1_sf.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/ca6849fad5e6220a5e62f925d02dc1f1_sf.pdf
 file_size: 35083
 file_type: application/pdf
 learning_resource_types:

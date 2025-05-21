@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Measuring angles and radii of curvature
-file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/713c0668dafe485b98184b8e46ac2ee1_randtheta.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/713c0668dafe485b98184b8e46ac2ee1_randtheta.pdf
 file_size: 321913
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Chapter 10: Off-Axis "Leith & Upatnieks" Holograms'
-file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/5e7cf4fa600d2c2e1cf06a6e735791e9_ch10offaxisluholos.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/5e7cf4fa600d2c2e1cf06a6e735791e9_ch10offaxisluholos.pdf
 file_size: 360021
 file_type: application/pdf
 learning_resource_types:

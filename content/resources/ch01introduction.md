@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chapter?1:?The?Window?View?Upon?Reality
-file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/f337d78614502785d33626b13c588ed7_ch01introduction.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/f337d78614502785d33626b13c588ed7_ch01introduction.pdf
 file_size: 145579
 file_type: application/pdf
 learning_resource_types: []

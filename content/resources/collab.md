@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Policy on collaboration and the use of "bibles"
-file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/78a2f9861bb654648b63aa1104b0f5b2_collab.pdf
+file: /courses/mas-450-holographic-imaging-spring-2003/78a2f9861bb654648b63aa1104b0f5b2_collab.pdf
 file_size: 28285
 file_type: application/pdf
 learning_resource_types:

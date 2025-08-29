@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: REFLECTION RAY-TRACING
-file: /courses/mas-450-holographic-imaging-spring-2003/8ba9ec1ddc12055cde6445bfaf46793e_reflnotes.pdf
+file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/8ba9ec1ddc12055cde6445bfaf46793e_reflnotes.pdf
 file_size: 297143
 file_type: application/pdf
 learning_resource_types:

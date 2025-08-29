@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A catalog of sources
-file: /courses/mas-450-holographic-imaging-spring-2003/62f0f23540c4eead5ade855e5c918851_sources.pdf
+file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/62f0f23540c4eead5ade855e5c918851_sources.pdf
 file_size: 437502
 file_type: application/pdf
 learning_resource_types:

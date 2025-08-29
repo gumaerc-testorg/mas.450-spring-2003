@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/mas-450-holographic-imaging-spring-2003/c19a969bd620dac4df2fb086ffa4686e_ch03_appdx_phs_footprts.pdf
+file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/c19a969bd620dac4df2fb086ffa4686e_ch03_appdx_phs_footprts.pdf
 file_size: 38327
 file_type: application/pdf
 learning_resource_types: []

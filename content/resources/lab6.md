@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'Lab notes #6: OFF-AXIS HOLOGRAPHY. Part 2: Transmission Masters'
-file: /courses/mas-450-holographic-imaging-spring-2003/454dfca76fffbf69c7423b0818536a30_lab6.pdf
+file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/454dfca76fffbf69c7423b0818536a30_lab6.pdf
 file_size: 36880
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'Lab #3/4 pre-lab questions'
-file: /courses/mas-450-holographic-imaging-spring-2003/3eb84dde373ebe65323ac0a20501859e_lab3prelab.pdf
+file: /ol-ocw-studio-app/courses/mas-450-holographic-imaging-spring-2003/3eb84dde373ebe65323ac0a20501859e_lab3prelab.pdf
 file_size: 14757
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

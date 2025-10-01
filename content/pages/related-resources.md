@@ -11,10 +11,10 @@ Some web sites of relevance to holography:
 
 ## Related Links
 
-[http://www.holoworld.com/](http://www.holoworld.com/)
+{{% resource_link "a0ce3d6b-c17e-4b2c-bafa-aba62482c9d3" "http://www.holoworld.com/" %}}
 
-[http://hyperphysics.phy-astr.gsu.edu/Hbase/optmod/holog.html](http://hyperphysics.phy-astr.gsu.edu/Hbase/optmod/holog.html)
+{{% resource_link "b0042573-8e73-4c2f-9da4-7d9499b51d03" "http://hyperphysics.phy-astr.gsu.edu/Hbase/optmod/holog.html" %}}
 
-[http://web.mit.edu/museum/collections/holography.html](http://web.mit.edu/museum/collections/holography.html)
+{{% resource_link "4677a3a3-ac89-48d2-84c5-cd2e8d25f199" "http://web.mit.edu/museum/collections/holography.html" %}}
 
-[http://www.holo.com](http://www.holo.com/)
+{{% resource_link "a9e65b8c-001a-4af6-b389-11e11fac7942" "http://www.holo.com" %}}
